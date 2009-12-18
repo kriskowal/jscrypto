@@ -1,0 +1,12 @@
+{
+    "name": "jscrypto",
+    "description": "Fast symmetric cryptography in Javascript",
+    "keywords": ["crypto", "aes", "ocb", "ccm],
+    "url": "http://crypto.stanford.edu/sjcl/",
+    "contributors": [
+        "Emily Stark <estark@cs.stanford.edu>",
+        "Mike Hamburg <mhamburg@cs.stanford.edu>",
+        "Don Boneh <dabo@cs.stanford.edu>",
+    ],
+    "maintainer": "Kris Kowal <kris.kowal@cixar.com>"
+}
